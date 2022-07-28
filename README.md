@@ -1,4 +1,4 @@
-[![MasterHead](https://i.im.ge/2022/07/28/F98sJ8.png)](https://github.com/FlavioBernachia?tab=repositories)
+[![MasterHead](https://i.im.ge/2022/07/28/F988PJ.png)](https://github.com/FlavioBernachia?tab=repositories)
 <h1 align="center">Hi 👋, I'm Flavio Bernachia</h1>
 <h3 align="center">I am a lover of programming and I specialize in the area of ​​frontend development.</h3>
 
